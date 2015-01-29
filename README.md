@@ -38,4 +38,6 @@ The subtitution placeholders are thus:
 
 The placeholders start counting from position 1, not zero.
 
+## TODO
 
+* Be more liberal in what translates to boolean and null. 
