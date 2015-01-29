@@ -22,11 +22,8 @@ $ echo -n apple |
 INSERT into fruits (name, price) VALUES ('apple', 1.99);
 ```
 
-
 WARNING: Use single quotes around the SQL template expression so that
 Bash does not do interpolation.
-
-'null' text is translated into NULL:
 
 The subtitution placeholders are thus:
 
